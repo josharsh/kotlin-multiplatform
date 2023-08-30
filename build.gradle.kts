@@ -4,7 +4,7 @@ plugins {
     `maven-publish`
 }
 
-group = "com.plumhq"
+group = "com.kmp"
 version = "1.0-SNAPSHOT"
 
 repositories {
@@ -82,7 +82,7 @@ publishing {
     publications {
         register("multiplatformLib", MavenPublication::class) {
             from(components["kotlin"])
-            groupId = "com.plumhq"
+            groupId = "com.kmp"
             artifactId = "employee.shared"
             version = "1.0.0"
         }

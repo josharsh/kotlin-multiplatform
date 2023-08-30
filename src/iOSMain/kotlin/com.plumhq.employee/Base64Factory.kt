@@ -1,4 +1,4 @@
-package com.plumhq.employee
+package com.kmp.scaffold
 
 actual object Base64Factory {
     actual fun createEncoder(): Base64Encoder = NativeBase64Encoder

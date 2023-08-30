@@ -1,4 +1,4 @@
-package com.plumhq.employee
+package com.kmp.scaffold
 
 interface Base64Encoder {
     fun encode(src: ByteArray): ByteArray
