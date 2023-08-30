@@ -1,0 +1,10 @@
+{
+  "name": "kmp-shared",
+  "version": "1.0.0-SNAPSHOT",
+  "main": "kmp-shared.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

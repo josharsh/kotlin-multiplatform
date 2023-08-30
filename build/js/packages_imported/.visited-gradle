@@ -1,0 +1,20 @@
+{
+  "version": "9",
+  "items": {
+    "a1acc03c82b5e650bd15291c15d8d9b3": {
+      "src": "/Users/josharsh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.7.10/bac80c520d0a9e3f3673bc2658c6ed02ef45a76a/kotlin-stdlib-common-1.7.10.jar"
+    },
+    "39865619af72b74d63a378a7af6c798e": {
+      "src": "/Users/josharsh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.7.10/d8938f869b99321cedd02ebf7646b73f9915b6ea/kotlin-stdlib-js-1.7.10.jar",
+      "target": "kotlin/1.7.10"
+    },
+    "895195c673d7ea83de5af201c50e8279": {
+      "src": "/Users/josharsh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js-runner/1.7.10/c776694bcd8ec38ab942d5ca1d896ca805c9541f/kotlin-test-js-runner-1.7.10.jar",
+      "target": "kotlin-test-js-runner/1.7.10"
+    },
+    "493425509ee3e6110df5c61d4021e584": {
+      "src": "/Users/josharsh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js/1.7.10/b198158aec492c74cc9111bb8237f170192e270c/kotlin-test-js-1.7.10.jar",
+      "target": "kotlin-test/1.7.10"
+    }
+  }
+}
