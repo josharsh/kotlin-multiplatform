@@ -1,5 +1,13 @@
 # kotlin-multiplatform
-Kotlin Multiplaform Scaffold for JS, Android and iOS
+Kotlin Multiplaform Scaffold for JS, Android and iOS.
+
+Use this scaffold to get started wiht your kotlin multiplatform projects for Android, iOS and JS.
+1. Clone this repository
+```
+git clone https://github.com/josharsh/kotlin-multiplatform
+```
+2. Open this folder with IntelliJ CE and get started with writing code on commonMain folder inside **src**
+3. There is an example of Base64.kt to help you get started
 
 # How is the Project set up?
 IntelliJ IDEA CE is used to set up this KMP project. The project was initialized as a Kotlin Multiplatform library.
