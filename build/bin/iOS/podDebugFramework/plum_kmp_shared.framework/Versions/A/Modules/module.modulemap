@@ -1,8 +1,0 @@
-framework module plum_kmp_shared {
-    umbrella header "plum_kmp_shared.h"
-
-    export *
-    module * { export * }
-
-    use Foundation
-}
