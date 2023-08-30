@@ -14,11 +14,11 @@ repositories {
 kotlin {
     cocoapods {
         // Name of the produced framework
-        frameworkName = "plum-kmp-shared"
+        frameworkName = "kmp-scaffold"
 
         // Configure fields required by CocoaPods.
         summary = "Kotlin multiplatform library for all business logic for employee experience"
-        homepage = "https://github.com/plumhq/kmp-shared"
+        homepage = "https://github.com/josharsh/kotlin-multiplatform"
 
         // CocoaPods version
         version = "1.0.0"
@@ -90,7 +90,7 @@ publishing {
     repositories {
         maven {
             name = "GitHubPackages"
-            url = uri("https://maven.pkg.github.com/plumhq/kmp-shared")
+            url = uri("https://maven.pkg.github.com/josharsh/kotlin-multiplatform")
 
             credentials {
                 username = project.findProperty("gpr.user") as String? ?: System.getenv("USERNAME_GITHUB")
